@@ -1,4 +1,4 @@
-name: Node.JS Testing Workflow
+name: Node.JS Testing Workflow.
 
 on: [push]
 
